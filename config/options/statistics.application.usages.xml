@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="vcs">
+      <project id="Factory_G" values="Git" />
+      <project id="solid-stone.ru" values="Git" />
+      <project id="Prod" values="Git" />
+    </group>
+    <group name="Command line tool">
+      <project id="simple-sassy-starter" values="console in toolwindow" />
+      <project id="Factory_G" values="console in toolwindow" />
+      <project id="Maximum" values="console in toolwindow" />
+    </group>
+    <group name="javaScript Frameworks">
+      <project id="Stirka" values="jQuery UI,Prototype 1.7.1,Modernizr 2.6.2,jQuery" />
+      <project id="Prod" values="node_modules" />
+    </group>
+    <group name="php-interpreters">
+      <project id="Alpinist" values="0" />
+      <project id="Stirka-prod" values="0" />
+      <project id="instabir-master" values="0" />
+      <project id="solid-stone.ru" values="0" />
+      <project id="untitled" values="0" />
+      <project id="GSM" values="0" />
+      <project id="impuls" values="0" />
+      <project id="advanced" values="0" />
+      <project id="Stirka" values="0" />
+      <project id="Teplostroy" values="0" />
+      <project id="Msonic-site" values="0" />
+      <project id="site" values="0" />
+      <project id="simple-sassy-starter" values="0" />
+      <project id="Site" values="0" />
+      <project id="MixHunt" values="0" />
+      <project id="Maximum" values="0" />
+      <project id="web" values="0" />
+      <project id="bedcleaner.ru" values="0" />
+      <project id="Stirka-new" values="0" />
+      <project id="makslog" values="0" />
+      <project id="Prod" values="0" />
+      <project id="Stirka-new_last" values="0" />
+      <project id="CleanPult" values="0" />
+      <project id="Factory_G" values="0" />
+      <project id="bestklinik" values="0" />
+      <project id="Kosmetolog" values="0" />
+    </group>
+    <group name="php-interpreter-version">
+      <project id="Alpinist" values="not installed" />
+      <project id="Stirka-prod" values="not installed" />
+      <project id="instabir-master" values="not installed" />
+      <project id="solid-stone.ru" values="not installed" />
+      <project id="untitled" values="not installed" />
+      <project id="GSM" values="not installed" />
+      <project id="impuls" values="not installed" />
+      <project id="advanced" values="not installed" />
+      <project id="Stirka" values="not installed" />
+      <project id="Teplostroy" values="not installed" />
+      <project id="Msonic-site" values="not installed" />
+      <project id="site" values="not installed" />
+      <project id="simple-sassy-starter" values="not installed" />
+      <project id="Site" values="not installed" />
+      <project id="MixHunt" values="not installed" />
+      <project id="Maximum" values="not installed" />
+      <project id="web" values="not installed" />
+      <project id="bedcleaner.ru" values="not installed" />
+      <project id="Stirka-new" values="not installed" />
+      <project id="makslog" values="not installed" />
+      <project id="Prod" values="not installed" />
+      <project id="Stirka-new_last" values="not installed" />
+      <project id="CleanPult" values="not installed" />
+      <project id="Factory_G" values="not installed" />
+      <project id="bestklinik" values="not installed" />
+      <project id="Kosmetolog" values="not installed" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="Prod" values="Unknown" />
+    </group>
+    <group name="module type">
+      <project id="Alpinist" values="WEB_MODULE" />
+      <project id="Stirka-prod" values="WEB_MODULE" />
+      <project id="instabir-master" values="WEB_MODULE" />
+      <project id="solid-stone.ru" values="WEB_MODULE" />
+      <project id="untitled" values="WEB_MODULE" />
+      <project id="GSM" values="WEB_MODULE" />
+      <project id="impuls" values="WEB_MODULE" />
+      <project id="advanced" values="WEB_MODULE" />
+      <project id="Stirka" values="WEB_MODULE" />
+      <project id="Teplostroy" values="WEB_MODULE" />
+      <project id="Msonic-site" values="WEB_MODULE" />
+      <project id="site" values="WEB_MODULE" />
+      <project id="simple-sassy-starter" values="WEB_MODULE" />
+      <project id="Site" values="WEB_MODULE" />
+      <project id="MixHunt" values="WEB_MODULE" />
+      <project id="Maximum" values="WEB_MODULE" />
+      <project id="web" values="WEB_MODULE" />
+      <project id="bedcleaner.ru" values="WEB_MODULE" />
+      <project id="Stirka-new" values="WEB_MODULE" />
+      <project id="makslog" values="WEB_MODULE" />
+      <project id="Prod" values="WEB_MODULE" />
+      <project id="Stirka-new_last" values="WEB_MODULE" />
+      <project id="CleanPult" values="WEB_MODULE" />
+      <project id="Factory_G" values="WEB_MODULE" />
+      <project id="bestklinik" values="WEB_MODULE" />
+      <project id="Kosmetolog" values="WEB_MODULE" />
+    </group>
+    <group name="deployment server">
+      <project id="Alpinist" values="SFTP,FTP" />
+      <project id="instabir-master" values="SFTP,FTP" />
+      <project id="Stirka-prod" values="SFTP,FTP" />
+      <project id="untitled" values="SFTP,FTP" />
+      <project id="solid-stone.ru" values="FTP,SFTP" />
+      <project id="GSM" values="SFTP,FTP" />
+      <project id="advanced" values="SFTP,FTP" />
+      <project id="Stirka" values="FTP,SFTP" />
+      <project id="Teplostroy" values="SFTP,FTP" />
+      <project id="site" values="FTP,SFTP" />
+      <project id="Msonic-site" values="FTP,SFTP" />
+      <project id="simple-sassy-starter" values="SFTP,FTP" />
+      <project id="Site" values="FTP,SFTP" />
+      <project id="MixHunt" values="FTP,SFTP" />
+      <project id="Maximum" values="FTP,SFTP" />
+      <project id="web" values="SFTP,FTP" />
+      <project id="bedcleaner.ru" values="SFTP,FTP" />
+      <project id="makslog" values="FTP,SFTP" />
+      <project id="Stirka-new" values="SFTP,FTP" />
+      <project id="Prod" values="FTP,SFTP" />
+      <project id="Stirka-new_last" values="SFTP,FTP" />
+      <project id="CleanPult" values="FTP,SFTP" />
+      <project id="Factory_G" values="SFTP,FTP" />
+      <project id="bestklinik" values="FTP,SFTP" />
+      <project id="Kosmetolog" values="FTP,SFTP" />
+    </group>
+    <group name="php-servers">
+      <project id="Alpinist" values="0" />
+      <project id="Stirka-prod" values="0" />
+      <project id="instabir-master" values="0" />
+      <project id="solid-stone.ru" values="0" />
+      <project id="untitled" values="0" />
+      <project id="GSM" values="0" />
+      <project id="impuls" values="0" />
+      <project id="advanced" values="0" />
+      <project id="Stirka" values="0" />
+      <project id="Teplostroy" values="0" />
+      <project id="Msonic-site" values="0" />
+      <project id="site" values="0" />
+      <project id="simple-sassy-starter" values="0" />
+      <project id="Site" values="0" />
+      <project id="MixHunt" values="0" />
+      <project id="Maximum" values="0" />
+      <project id="web" values="0" />
+      <project id="bedcleaner.ru" values="0" />
+      <project id="Stirka-new" values="0" />
+      <project id="makslog" values="0" />
+      <project id="Prod" values="0" />
+      <project id="Stirka-new_last" values="0" />
+      <project id="CleanPult" values="0" />
+      <project id="Factory_G" values="0" />
+      <project id="bestklinik" values="0" />
+      <project id="Kosmetolog" values="0" />
+    </group>
+    <group name="php-include-path">
+      <project id="Alpinist" values="0" />
+      <project id="Stirka-prod" values="0" />
+      <project id="instabir-master" values="0" />
+      <project id="solid-stone.ru" values="0" />
+      <project id="untitled" values="0" />
+      <project id="GSM" values="0" />
+      <project id="impuls" values="0" />
+      <project id="advanced" values="0" />
+      <project id="Stirka" values="0" />
+      <project id="Teplostroy" values="0" />
+      <project id="Msonic-site" values="0" />
+      <project id="site" values="0" />
+      <project id="simple-sassy-starter" values="0" />
+      <project id="Site" values="0" />
+      <project id="MixHunt" values="0" />
+      <project id="Maximum" values="0" />
+      <project id="web" values="0" />
+      <project id="bedcleaner.ru" values="0" />
+      <project id="Stirka-new" values="0" />
+      <project id="makslog" values="0" />
+      <project id="Prod" values="0" />
+      <project id="Stirka-new_last" values="0" />
+      <project id="CleanPult" values="0" />
+      <project id="Factory_G" values="0" />
+      <project id="bestklinik" values="0" />
+      <project id="Kosmetolog" values="0" />
+    </group>
+    <group name="file-type">
+      <project id="Alpinist" values="Native,HTML,CSS,PLAIN_TEXT,Locale,XML,Images,UNKNOWN,JavaScript,PHP" />
+      <project id="Stirka-prod" values="XML,UNKNOWN,PHP,JavaScript,HTML,CSS,PLAIN_TEXT" />
+      <project id="instabir-master" values="Images,HTML,UNKNOWN,C++,JSON,PLAIN_TEXT,CoffeeScript,Ini,PATCH,JSHint,YAML,JavaScript,ARCHIVE,CSS,XML,HAML" />
+      <project id="solid-stone.ru" values="HAML,CSS,Images,HTML,PATCH,SourceMap,CoffeeScript,JSON,YAML,PLAIN_TEXT,UNKNOWN,SCSS,JavaScript,ARCHIVE,XML,JSHint" />
+      <project id="untitled" values="UNKNOWN,XML,PLAIN_TEXT" />
+      <project id="GSM" values="PLAIN_TEXT,ARCHIVE,Images,HTML,JavaScript,CSS,UNKNOWN,XML" />
+      <project id="impuls" values="UNKNOWN,PHP,XML,Native,CSS,Images,htaccess,ARCHIVE,HTML,PLAIN_TEXT,JavaScript" />
+      <project id="advanced" values="Images,CSS,YAML,JavaScript,PHP,ARCHIVE,JSON,UNKNOWN,XML,PLAIN_TEXT,HTML" />
+      <project id="Stirka" values="CSS,HTML,Npm file,Images,HAML,SCSS,ARCHIVE,Jade,PHP,XML,JSON,JavaScript,Git file,PLAIN_TEXT,Markdown,SourceMap,UNKNOWN" />
+      <project id="Teplostroy" values="HTML,YAML,XML,DTD,PATCH,SCSS,CSS,JavaScript,SourceMap,PLAIN_TEXT,C++,CoffeeScript,ARCHIVE,Images,JSHint,UNKNOWN,Ini,SmartyConfig,HAML,JSON" />
+      <project id="Msonic-site" values="Npm file,Bash,JSON,JavaScript,HTML,XML,JSHint,UNKNOWN,Jade,CSS,HAML,ARCHIVE,Images,PLAIN_TEXT,SCSS,SourceMap" />
+      <project id="site" values="XML,HAML,JavaScript,UNKNOWN,CSS,SCSS,PLAIN_TEXT,HTML,Images,SourceMap" />
+      <project id="simple-sassy-starter" values="UNKNOWN,Images,JSON,SourceMap,HTML,SCSS,CSS,PLAIN_TEXT,JavaScript,XML,Git file,HAML" />
+      <project id="Site" values="ARCHIVE,UNKNOWN,SourceMap,CSS,XML,Markdown,JSON,Bash,SCSS,Jade,HAML,JavaScript,Images,HTML,Npm file,YAML,JSHint,PLAIN_TEXT" />
+      <project id="MixHunt" values="Images,HTML,JavaScript,CSS,PLAIN_TEXT,UNKNOWN,XML" />
+      <project id="Maximum" values="SourceMap,HTML,Images,UNKNOWN,HAML,JavaScript,SCSS,PLAIN_TEXT,Git file,ARCHIVE,Ini,XML,CSS" />
+      <project id="web" values="Images,JavaScript,XML,UNKNOWN,PLAIN_TEXT,CSS,HTML" />
+      <project id="bedcleaner.ru" values="XML,PLAIN_TEXT,HTML,Images,UNKNOWN,CSS,Native" />
+      <project id="Stirka-new" values="Images,XML,JavaScript,HTML,PLAIN_TEXT,CSS,UNKNOWN" />
+      <project id="makslog" values="CSS,PLAIN_TEXT,Images,UNKNOWN,SCSS,HTML,JavaScript,XML" />
+      <project id="Prod" values="JSON,PHP,HTML,JavaScript,SCSS,XML,UNKNOWN,JSHint,ARCHIVE,LESS,SourceMap,PLAIN_TEXT,YAML,Jade,CSS,Images" />
+      <project id="Stirka-new_last" values="HAML,SourceMap,UNKNOWN,HTML,Npm file,Markdown,Jade,JSON,CSS,JavaScript,Images,SCSS,PLAIN_TEXT,XML" />
+      <project id="CleanPult" values="XML,JavaScript,UNKNOWN,Images,CSS,PHP,HTML,PLAIN_TEXT" />
+      <project id="Factory_G" values="CSS,PLAIN_TEXT,SCSS,JavaScript,Images,HAML,UNKNOWN,Git file,HTML,XML" />
+      <project id="bestklinik" values="Images,XML,PLAIN_TEXT,ARCHIVE,HTML,CSS,UNKNOWN,JavaScript" />
+      <project id="Kosmetolog" values="SourceMap,Images,XML,YAML,HAML,PATCH,PLAIN_TEXT,ARCHIVE,SmartyConfig,JSON,C++,SASS,SCSS,Native,CoffeeScript,CSS,Ini,UNKNOWN,HTML,IDL,JSHint,JavaScript,TypeScript" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="Maximum" values="JavascriptDebugType" />
+      <project id="Kosmetolog" values="js.build_tools.gulp" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="Alpinist" values="Project,Project" />
+      <project id="Stirka-prod" values="Project,Project" />
+      <project id="instabir-master" values="Project,Project" />
+      <project id="solid-stone.ru" values="Project,Project" />
+      <project id="untitled" values="Project,Project" />
+      <project id="GSM" values="Project,Project" />
+      <project id="impuls" values="Project,Project" />
+      <project id="advanced" values="Project,Project" />
+      <project id="Stirka" values="Project,File,Project,Project,Project,Project,Project" />
+      <project id="Teplostroy" values="Project,Project" />
+      <project id="Msonic-site" values="Project,Project" />
+      <project id="site" values="Project,Project" />
+      <project id="simple-sassy-starter" values="Project,Project" />
+      <project id="Site" values="Project,Project" />
+      <project id="MixHunt" values="Project,Project" />
+      <project id="Maximum" values="Project,Project" />
+      <project id="web" values="Project,Project" />
+      <project id="bedcleaner.ru" values="Project,Project" />
+      <project id="Stirka-new" values="Project,Project" />
+      <project id="makslog" values="Project,Project" />
+      <project id="Prod" values="Project,Directory,Project" />
+      <project id="Stirka-new_last" values="Project,Project" />
+      <project id="CleanPult" values="Project,Project" />
+      <project id="Factory_G" values="Project,Project" />
+      <project id="bestklinik" values="Project,Project" />
+      <project id="Kosmetolog" values="Project,Project" />
+    </group>
+    <group name="JavaScript versions">
+      <project id="Alpinist" values="DEFAULT" />
+      <project id="Stirka-prod" values="DEFAULT" />
+      <project id="instabir-master" values="DEFAULT" />
+      <project id="solid-stone.ru" values="DEFAULT" />
+      <project id="untitled" values="DEFAULT" />
+      <project id="GSM" values="DEFAULT" />
+      <project id="impuls" values="DEFAULT" />
+      <project id="advanced" values="DEFAULT" />
+      <project id="Stirka" values="DEFAULT" />
+      <project id="Teplostroy" values="DEFAULT" />
+      <project id="Msonic-site" values="DEFAULT" />
+      <project id="site" values="DEFAULT" />
+      <project id="simple-sassy-starter" values="DEFAULT" />
+      <project id="Site" values="DEFAULT" />
+      <project id="MixHunt" values="DEFAULT" />
+      <project id="Maximum" values="DEFAULT" />
+      <project id="web" values="DEFAULT" />
+      <project id="bedcleaner.ru" values="DEFAULT" />
+      <project id="Stirka-new" values="DEFAULT" />
+      <project id="makslog" values="DEFAULT" />
+      <project id="Prod" values="DEFAULT" />
+      <project id="Stirka-new_last" values="DEFAULT" />
+      <project id="CleanPult" values="DEFAULT" />
+      <project id="Factory_G" values="DEFAULT" />
+      <project id="bestklinik" values="DEFAULT" />
+      <project id="Kosmetolog" values="DEFAULT" />
+    </group>
+    <group name="php-debug-skipped-paths">
+      <project id="Alpinist" values="0" />
+      <project id="Stirka-prod" values="0" />
+      <project id="instabir-master" values="0" />
+      <project id="solid-stone.ru" values="0" />
+      <project id="untitled" values="0" />
+      <project id="GSM" values="0" />
+      <project id="impuls" values="0" />
+      <project id="advanced" values="0" />
+      <project id="Stirka" values="0" />
+      <project id="Teplostroy" values="0" />
+      <project id="Msonic-site" values="0" />
+      <project id="site" values="0" />
+      <project id="simple-sassy-starter" values="0" />
+      <project id="Site" values="0" />
+      <project id="MixHunt" values="0" />
+      <project id="Maximum" values="0" />
+      <project id="web" values="0" />
+      <project id="bedcleaner.ru" values="0" />
+      <project id="Stirka-new" values="0" />
+      <project id="makslog" values="0" />
+      <project id="Prod" values="0" />
+      <project id="Stirka-new_last" values="0" />
+      <project id="CleanPult" values="0" />
+      <project id="Factory_G" values="0" />
+      <project id="bestklinik" values="0" />
+      <project id="Kosmetolog" values="0" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="CreateFile.CreateFileAction" count="28" />
+      <entry feature="NewDirectoryProjectAction.empty" count="6" />
+      <entry feature="execute.JavascriptDebugType.Debug" count="2" />
+      <entry feature="execute.JavascriptDebugType.Run" count="7" />
+      <entry feature="execute.js.build_tools.gulp.Debug" count="1" />
+      <entry feature="execute.js.build_tools.gulp.Run" count="4" />
+      <entry feature="ide.settings.Appearance" count="92" />
+      <entry feature="ide.settings.Bower" count="2" />
+      <entry feature="ide.settings.CSS" count="12" />
+      <entry feature="ide.settings.CodeGlance" count="56" />
+      <entry feature="ide.settings.Code_Completion" count="10" />
+      <entry feature="ide.settings.Code_Style" count="6" />
+      <entry feature="ide.settings.Colors_&amp;_Fonts" count="58" />
+      <entry feature="ide.settings.Console_Font" count="5" />
+      <entry feature="ide.settings.Debugger" count="4" />
+      <entry feature="ide.settings.Deployment" count="21" />
+      <entry feature="ide.settings.Editor" count="25" />
+      <entry feature="ide.settings.Editor_Tabs" count="18" />
+      <entry feature="ide.settings.Emmet" count="6" />
+      <entry feature="ide.settings.Extended_Code_Sense" count="2" />
+      <entry feature="ide.settings.File_Encodings" count="2" />
+      <entry feature="ide.settings.File_Status" count="9" />
+      <entry feature="ide.settings.File_Watchers" count="22" />
+      <entry feature="ide.settings.File_and_Code_Templates" count="7" />
+      <entry feature="ide.settings.Font" count="139" />
+      <entry feature="ide.settings.General" count="107" />
+      <entry feature="ide.settings.Git" count="1" />
+      <entry feature="ide.settings.GitHub" count="1" />
+      <entry feature="ide.settings.HAML" count="220" />
+      <entry feature="ide.settings.HTML" count="41" />
+      <entry feature="ide.settings.Images" count="2" />
+      <entry feature="ide.settings.JSHint" count="2" />
+      <entry feature="ide.settings.JavaScript" count="2" />
+      <entry feature="ide.settings.KeyPromoter" count="1" />
+      <entry feature="ide.settings.Keymap" count="21" />
+      <entry feature="ide.settings.Language_Defaults" count="4" />
+      <entry feature="ide.settings.Laravel_Plugin" count="2" />
+      <entry feature="ide.settings.Libraries" count="1" />
+      <entry feature="ide.settings.Live_Templates" count="6" />
+      <entry feature="ide.settings.PHP" count="1" />
+      <entry feature="ide.settings.Plug-ins" count="3" />
+      <entry feature="ide.settings.Plugins" count="59" />
+      <entry feature="ide.settings.Referencer" count="1" />
+      <entry feature="ide.settings.SASS/SCSS" count="82" />
+      <entry feature="ide.settings.SCSS" count="7" />
+      <entry feature="ide.settings.Shifter" count="1" />
+      <entry feature="ide.settings.Smart_Keys" count="5" />
+      <entry feature="ide.settings.System_Settings" count="3" />
+      <entry feature="ide.settings.Updates" count="1" />
+      <entry feature="ide.settings.Vagrant" count="1" />
+      <entry feature="ide.settings.Web_Browsers" count="2" />
+      <entry feature="ide.settings.XPath_Viewer" count="5" />
+      <entry feature="ide.settings.XSLT" count="1" />
+      <entry feature="idea.caches.invalidated" count="12" />
+      <entry feature="ideaapp.started" count="305" />
+      <entry feature="tips.of.the.day.next" count="12" />
+    </counts>
+  </component>
+</application>
+

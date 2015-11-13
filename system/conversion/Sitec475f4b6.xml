@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="Z:\Dropbox\Work Projects\Asgard\Site\.idea\Site.iml" timestamp="1434671013934" />
+    <file path="Z:\Dropbox\Work Projects\Asgard\Site\.idea\cssxfire (Конфликтующая копия с компьютера iMac - Tim 2015-06-20).xml" timestamp="1434799665000" />
+    <file path="Z:\Dropbox\Work Projects\Asgard\Site\.idea\cssxfire.xml" timestamp="1434930811219" />
+    <file path="Z:\Dropbox\Work Projects\Asgard\Site\.idea\encodings.xml" timestamp="1432988224540" />
+    <file path="Z:\Dropbox\Work Projects\Asgard\Site\.idea\jsLibraryMappings.xml" timestamp="1434671014056" />
+    <file path="Z:\Dropbox\Work Projects\Asgard\Site\.idea\jsLinters\jshint.xml" timestamp="1434808317000" />
+    <file path="Z:\Dropbox\Work Projects\Asgard\Site\.idea\jsLinters\jslint.xml" timestamp="1434199523139" />
+    <file path="Z:\Dropbox\Work Projects\Asgard\Site\.idea\libraries\Site_node_modules.xml" timestamp="1434428031000" />
+    <file path="Z:\Dropbox\Work Projects\Asgard\Site\.idea\misc.xml" timestamp="1432988224469" />
+    <file path="Z:\Dropbox\Work Projects\Asgard\Site\.idea\modules.xml" timestamp="1432988224500" />
+    <file path="Z:\Dropbox\Work Projects\Asgard\Site\.idea\scopes\scope_settings.xml" timestamp="1432988224568" />
+    <file path="Z:\Dropbox\Work Projects\Asgard\Site\.idea\vcs.xml" timestamp="1432988224478" />
+    <file path="Z:\Dropbox\Work Projects\Asgard\Site\.idea\watcherTasks (Конфликтующая копия с компьютера iMac - Tim 2015-06-20).xml" timestamp="1434794809000" />
+    <file path="Z:\Dropbox\Work Projects\Asgard\Site\.idea\watcherTasks.xml" timestamp="1434908791390" />
+    <file path="Z:\Dropbox\Work Projects\Asgard\Site\.idea\workspace (Конфликтующая копия с компьютера iMac - Tim 2015-06-20 (1)).xml" timestamp="1434801029000" />
+    <file path="Z:\Dropbox\Work Projects\Asgard\Site\.idea\workspace (Конфликтующая копия с компьютера iMac - Tim 2015-06-20).xml" timestamp="1434794864000" />
+    <file path="Z:\Dropbox\Work Projects\Asgard\Site\.idea\workspace.xml" timestamp="1435447668849" />
+  </project-files>
+</conversion>
+

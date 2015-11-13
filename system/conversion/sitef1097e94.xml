@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="Z:\Development\PhpstormProjects\Cards\site\.idea\cssxfire.xml" timestamp="1419085059555" />
+    <file path="Z:\Development\PhpstormProjects\Cards\site\.idea\encodings.xml" timestamp="1419085059548" />
+    <file path="Z:\Development\PhpstormProjects\Cards\site\.idea\misc.xml" timestamp="1419085059532" />
+    <file path="Z:\Development\PhpstormProjects\Cards\site\.idea\modules.xml" timestamp="1419085059578" />
+    <file path="Z:\Development\PhpstormProjects\Cards\site\.idea\scopes\scope_settings.xml" timestamp="1419085059573" />
+    <file path="Z:\Development\PhpstormProjects\Cards\site\.idea\site.iml" timestamp="1419085059523" />
+    <file path="Z:\Development\PhpstormProjects\Cards\site\.idea\vcs.xml" timestamp="1419085059540" />
+    <file path="Z:\Development\PhpstormProjects\Cards\site\.idea\workspace.xml" timestamp="1419894131986" />
+  </project-files>
+</conversion>
+

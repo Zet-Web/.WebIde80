@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="Z:\Development\PhpstormProjects\Stirka.ru-New\Stirka-new\.idea\Stirka-new.iml" timestamp="1422886254453" />
+    <file path="Z:\Development\PhpstormProjects\Stirka.ru-New\Stirka-new\.idea\cssxfire.xml" timestamp="1422886254476" />
+    <file path="Z:\Development\PhpstormProjects\Stirka.ru-New\Stirka-new\.idea\encodings.xml" timestamp="1422886254506" />
+    <file path="Z:\Development\PhpstormProjects\Stirka.ru-New\Stirka-new\.idea\misc.xml" timestamp="1422886254512" />
+    <file path="Z:\Development\PhpstormProjects\Stirka.ru-New\Stirka-new\.idea\modules.xml" timestamp="1422886254483" />
+    <file path="Z:\Development\PhpstormProjects\Stirka.ru-New\Stirka-new\.idea\scopes\scope_settings.xml" timestamp="1422886254470" />
+    <file path="Z:\Development\PhpstormProjects\Stirka.ru-New\Stirka-new\.idea\vcs.xml" timestamp="1422886254501" />
+    <file path="Z:\Development\PhpstormProjects\Stirka.ru-New\Stirka-new\.idea\workspace.xml" timestamp="1426494699929" />
+  </project-files>
+</conversion>
+

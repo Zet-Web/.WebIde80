@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="Z:\Dropbox\loadlab\teplostroy\site\Teplostroy\.idea\Teplostroy.iml" timestamp="1431939216000" />
+    <file path="Z:\Dropbox\loadlab\teplostroy\site\Teplostroy\.idea\cssxfire.xml" timestamp="1416582543000" />
+    <file path="Z:\Dropbox\loadlab\teplostroy\site\Teplostroy\.idea\deployment.xml" timestamp="1433404228000" />
+    <file path="Z:\Dropbox\loadlab\teplostroy\site\Teplostroy\.idea\encodings.xml" timestamp="1416582543000" />
+    <file path="Z:\Dropbox\loadlab\teplostroy\site\Teplostroy\.idea\misc.xml" timestamp="1416582543000" />
+    <file path="Z:\Dropbox\loadlab\teplostroy\site\Teplostroy\.idea\modules.xml" timestamp="1416582543000" />
+    <file path="Z:\Dropbox\loadlab\teplostroy\site\Teplostroy\.idea\scopes\scope_settings.xml" timestamp="1416582543000" />
+    <file path="Z:\Dropbox\loadlab\teplostroy\site\Teplostroy\.idea\vcs.xml" timestamp="1416582543000" />
+    <file path="Z:\Dropbox\loadlab\teplostroy\site\Teplostroy\.idea\watcherTasks.xml" timestamp="1431691971000" />
+    <file path="Z:\Dropbox\loadlab\teplostroy\site\Teplostroy\.idea\workspace.xml" timestamp="1433642504873" />
+  </project-files>
+</conversion>
+

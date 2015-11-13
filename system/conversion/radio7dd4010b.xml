@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\WebServers\home\localhost\www\radio\.idea\Maximum.iml" timestamp="1446042685221" />
+    <file path="C:\WebServers\home\localhost\www\radio\.idea\codeStyleSettings.xml" timestamp="1446042643282" />
+    <file path="C:\WebServers\home\localhost\www\radio\.idea\cssxfire.xml" timestamp="1444284474648" />
+    <file path="C:\WebServers\home\localhost\www\radio\.idea\encodings.xml" timestamp="1446042658693" />
+    <file path="C:\WebServers\home\localhost\www\radio\.idea\jsLinters\jshint.xml" timestamp="1442228851000" />
+    <file path="C:\WebServers\home\localhost\www\radio\.idea\libraries\compass_library.xml" timestamp="1446042646924" />
+    <file path="C:\WebServers\home\localhost\www\radio\.idea\misc.xml" timestamp="1437702420000" />
+    <file path="C:\WebServers\home\localhost\www\radio\.idea\modules.xml" timestamp="1437702420000" />
+    <file path="C:\WebServers\home\localhost\www\radio\.idea\scopes\scope_settings.xml" timestamp="1437702420000" />
+    <file path="C:\WebServers\home\localhost\www\radio\.idea\template\template_variable_settings.xml" timestamp="1446042694030" />
+    <file path="C:\WebServers\home\localhost\www\radio\.idea\vcs.xml" timestamp="1446042643396" />
+    <file path="C:\WebServers\home\localhost\www\radio\.idea\watcherTasks.xml" timestamp="1446042590875" />
+    <file path="C:\WebServers\home\localhost\www\radio\.idea\workspace.xml" timestamp="1446488650389" />
+  </project-files>
+</conversion>
+

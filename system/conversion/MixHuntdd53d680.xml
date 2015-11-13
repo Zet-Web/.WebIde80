@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="Z:\Dropbox\MixHunt\Form\MixHunt\.idea\MixHunt.iml" timestamp="1424005855070" />
+    <file path="Z:\Dropbox\MixHunt\Form\MixHunt\.idea\cssxfire.xml" timestamp="1424118307746" />
+    <file path="Z:\Dropbox\MixHunt\Form\MixHunt\.idea\encodings.xml" timestamp="1424005855088" />
+    <file path="Z:\Dropbox\MixHunt\Form\MixHunt\.idea\misc.xml" timestamp="1424005855098" />
+    <file path="Z:\Dropbox\MixHunt\Form\MixHunt\.idea\modules.xml" timestamp="1424005855106" />
+    <file path="Z:\Dropbox\MixHunt\Form\MixHunt\.idea\scopes\scope_settings.xml" timestamp="1424005855135" />
+    <file path="Z:\Dropbox\MixHunt\Form\MixHunt\.idea\vcs.xml" timestamp="1424005855143" />
+    <file path="Z:\Dropbox\MixHunt\Form\MixHunt\.idea\workspace.xml" timestamp="1424136364719" />
+  </project-files>
+</conversion>
+

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="Z:\Dropbox\loadlab\Yarina-yasnopolskaya.ru\Site\.idea\Site.iml" timestamp="1429547901000" />
+    <file path="Z:\Dropbox\loadlab\Yarina-yasnopolskaya.ru\Site\.idea\cssxfire.xml" timestamp="1429271805000" />
+    <file path="Z:\Dropbox\loadlab\Yarina-yasnopolskaya.ru\Site\.idea\encodings.xml" timestamp="1429271805000" />
+    <file path="Z:\Dropbox\loadlab\Yarina-yasnopolskaya.ru\Site\.idea\misc.xml" timestamp="1429271805000" />
+    <file path="Z:\Dropbox\loadlab\Yarina-yasnopolskaya.ru\Site\.idea\modules.xml" timestamp="1429271805000" />
+    <file path="Z:\Dropbox\loadlab\Yarina-yasnopolskaya.ru\Site\.idea\scopes\scope_settings.xml" timestamp="1429271805000" />
+    <file path="Z:\Dropbox\loadlab\Yarina-yasnopolskaya.ru\Site\.idea\vcs.xml" timestamp="1429271805000" />
+    <file path="Z:\Dropbox\loadlab\Yarina-yasnopolskaya.ru\Site\.idea\watcherTasks.xml" timestamp="1429271884000" />
+    <file path="Z:\Dropbox\loadlab\Yarina-yasnopolskaya.ru\Site\.idea\workspace.xml" timestamp="1430237223000" />
+  </project-files>
+</conversion>
+

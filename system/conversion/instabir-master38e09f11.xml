@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="Z:\Dropbox\loadlab\instabir-master (1)\instabir-master\.idea\cssxfire.xml" timestamp="1425556880000" />
+    <file path="Z:\Dropbox\loadlab\instabir-master (1)\instabir-master\.idea\encodings.xml" timestamp="1425556880000" />
+    <file path="Z:\Dropbox\loadlab\instabir-master (1)\instabir-master\.idea\instabir-master.iml" timestamp="1425650241000" />
+    <file path="Z:\Dropbox\loadlab\instabir-master (1)\instabir-master\.idea\misc.xml" timestamp="1425556880000" />
+    <file path="Z:\Dropbox\loadlab\instabir-master (1)\instabir-master\.idea\modules.xml" timestamp="1425556880000" />
+    <file path="Z:\Dropbox\loadlab\instabir-master (1)\instabir-master\.idea\scopes\scope_settings.xml" timestamp="1425556880000" />
+    <file path="Z:\Dropbox\loadlab\instabir-master (1)\instabir-master\.idea\vcs.xml" timestamp="1425556880000" />
+    <file path="Z:\Dropbox\loadlab\instabir-master (1)\instabir-master\.idea\watcherTasks.xml" timestamp="1425558098000" />
+    <file path="Z:\Dropbox\loadlab\instabir-master (1)\instabir-master\.idea\workspace.xml" timestamp="1425736096096" />
+  </project-files>
+</conversion>
+

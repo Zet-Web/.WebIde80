@@ -1,0 +1,17 @@
+!!! 5
+%html
+  %head
+    = Haml::Engine.new(File.read('./head.haml')).render
+  %body
+    = Haml::Engine.new(File.read('./header.haml')).render
+    .container#content
+  = Haml::Engine.new(File.read('./footer.haml')).render
+
+
+%body 
+  #container 
+    %header 
+      %h1 Our Awesome Haml Template 
+    #main Abstracting HTML since 2006 
+    %footer 
+      %address Ian Oxley 

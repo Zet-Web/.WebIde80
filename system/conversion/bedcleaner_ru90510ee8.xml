@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="Z:\Development\PhpstormProjects\bedcleaner.ru\.idea\bedcleaner.ru.iml" timestamp="1400660171667" />
+    <file path="Z:\Development\PhpstormProjects\bedcleaner.ru\.idea\cssxfire.xml" timestamp="1400660171686" />
+    <file path="Z:\Development\PhpstormProjects\bedcleaner.ru\.idea\encodings.xml" timestamp="1400660171709" />
+    <file path="Z:\Development\PhpstormProjects\bedcleaner.ru\.idea\misc.xml" timestamp="1400660171704" />
+    <file path="Z:\Development\PhpstormProjects\bedcleaner.ru\.idea\modules.xml" timestamp="1400660171699" />
+    <file path="Z:\Development\PhpstormProjects\bedcleaner.ru\.idea\scopes\scope_settings.xml" timestamp="1400660171694" />
+    <file path="Z:\Development\PhpstormProjects\bedcleaner.ru\.idea\vcs.xml" timestamp="1400660171681" />
+    <file path="Z:\Development\PhpstormProjects\bedcleaner.ru\.idea\workspace.xml" timestamp="1403779353662" />
+  </project-files>
+</conversion>
+

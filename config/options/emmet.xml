@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="CssEmmetOptions">
+    <option name="fuzzySearchEnabled" value="true" />
+  </component>
+  <component name="EmmetOptions">
+    <option name="filtersEnabledByDefault">
+      <set>
+        <option value="s" />
+        <option value="t" />
+        <option value="xsl" />
+      </set>
+    </option>
+    <option name="previewEnabled" value="true" />
+  </component>
+</application>
+

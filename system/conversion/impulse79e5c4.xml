@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="Z:\Development\PhpstormProjects\impuls\.idea\cssxfire.xml" timestamp="1407497942076" />
+    <file path="Z:\Development\PhpstormProjects\impuls\.idea\encodings.xml" timestamp="1407497942081" />
+    <file path="Z:\Development\PhpstormProjects\impuls\.idea\impuls.iml" timestamp="1407497942047" />
+    <file path="Z:\Development\PhpstormProjects\impuls\.idea\misc.xml" timestamp="1407497942069" />
+    <file path="Z:\Development\PhpstormProjects\impuls\.idea\modules.xml" timestamp="1407497942095" />
+    <file path="Z:\Development\PhpstormProjects\impuls\.idea\scopes\scope_settings.xml" timestamp="1407497942089" />
+    <file path="Z:\Development\PhpstormProjects\impuls\.idea\vcs.xml" timestamp="1407497942064" />
+    <file path="Z:\Development\PhpstormProjects\impuls\.idea\workspace.xml" timestamp="1416578942986" />
+  </project-files>
+</conversion>
+

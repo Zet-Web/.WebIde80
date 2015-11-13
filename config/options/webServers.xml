@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="067706e0-45af-4a7f-82a1-ae2bbdccf7bd" name="ARB" url="http://host7.loadlab.ru/">
+        <fileTransfer host="host7.loadlab.ru" port="21" rootFolder="/arb" password="dfd8dfcfdfd9dfc9dfdfdfcfdf98df9adf9b" username="webzet">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="4e0b44e2-56b0-44f7-be0c-308100d48c29" name="Yourem" url="http://yourem.ru">
+        <fileTransfer host="yourem.ru" port="21" rootFolder="/yourem.ru" password="dfd0dfc1df84df86dfc1df84dfc1df84dfc6dfdedfdbdf9bdf98df99" username="loadlab">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="b0a3a853-8560-4dd3-9a99-8aeab4c07d3a" name="doctor" url="http://FTP.cp788855.cpanel.tech-logol.ru">
+        <fileTransfer host="FTP.cp788855.cpanel.tech-logol.ru" port="21" password="dffedffadf9ddfecdf9ddfcddfecdfeedf99dfdd" username="m-doctoralfa@cp788855.cpanel.tech-logol.ru">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="f92279c9-84aa-4a66-9a41-ed61e43df5fb" name="Man" url="http://truck-man.netbit.ru">
+        <fileTransfer host="truck-man.netbit.ru" port="21" rootFolder="/public_html" password="dfdfdf9cdfeddf9edff8dff2dff2dff9dfc7dfcfdfdbdfef" username="truckman">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="c1b3c1f6-bc48-4962-8832-500d153e5fc2" name="MaxLog" url="http://loadlab.ru">
+        <fileTransfer host="loadlab.ru" port="22" rootFolder="/var/zpanel/hostdata/zadmin/public_html/makslog_loadlab_ru" accessType="SFTP" password="dfcddfcbdfd0dfcfdfdedfcbdfd8dfdf" username="zet">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="0145dabe-8fe0-4d82-93bc-0a713b3d43d3" name="WowFact" url="http://loadlab.ru">
+        <fileTransfer host="loadlab.ru" port="22" rootFolder="/var/zpanel/hostdata/zadmin/public_html/wow_loadlab_ru" accessType="SFTP" password="dfcddfcbdfd0dfcfdfdedfcbdfd8dfdf" username="zet">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="3d1d5311-1d6e-42d8-b5c5-1204beb14627" name="AFK" url="http://u370021.ftp.masterhost.ru">
+        <fileTransfer host="u370021.ftp.masterhost.ru" port="21" rootFolder="/afk-motors.ru/www" password="dfd9dfdedfc5dfc6df9ddfdedf93dfcfdfd9dfd9dfc5dfc9dfc2" username="u370021">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="89964efa-1f27-42ed-af94-bd9943a6130a" name="factory" url="http://loadlab.ru">
+        <fileTransfer host="loadlab.ru" port="22" rootFolder="/var/zpanel/hostdata/zadmin/public_html/factory_loadlab_ru" accessType="SFTP" password="dfcddfcbdfd0dfcfdfdedfcbdfd8dfdf" username="zet">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="0c3e3a43-f4a7-4103-862c-5a4903217d83" name="st-time.ru" url="http://u182728.ftp.masterhost.ru">
+        <fileTransfer host="u182728.ftp.masterhost.ru" port="22" rootFolder="/home/u182728/plastic-bags.ru/www" accessType="SFTP" password="dfc9dfc2dfc5dfdfdfd9dfc2dfc5dfc4dfc3df98dfc3" username="u182728">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="9422f78c-17ed-46af-adbb-28687d8e434b" name="NewTon" url="http://loadlab.ru">
+        <fileTransfer host="loadlab.ru" port="22" rootFolder="/var/zpanel/hostdata/zadmin/public_html/newton-fact_ru" accessType="SFTP" password="dfcddfcbdfd0dfcfdfdedfcbdfd8dfdf" username="zet">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="3b077fe5-1efe-4370-9cce-f7fbc8c02587" name="Teltomat" url="http://loadlab.ru">
+        <fileTransfer host="loadlab.ru" port="22" rootFolder="/var/zpanel/hostdata/zadmin/public_html/host6_loadlab_ru" accessType="SFTP" password="dfcddfcbdfd0dfcfdfdedfcbdfd8dfdf" username="zet">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="eac67713-e189-4f59-9bab-a8d94fee12b0" name="konterra" url="http://host7.loadlab.ru/">
+        <fileTransfer host="host7.loadlab.ru" port="21" password="dfd8dfcfdfd9dfc9dfdfdfcfdf98df9adf9b" username="webzet">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="83e0738f-4387-45e9-b9ae-25eecdd86d83" name="LANDING_AMT" url="http://host7.loadlab.ru/">
+        <fileTransfer host="host7.loadlab.ru" port="21" password="dfd8dfcfdfd9dfc9dfdfdfcfdf98df9adf9b" username="webzet">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="55648cef-6abe-4d5a-ad85-96661127de0d" name="Sportmax_host" url="http://loadlab.ru">
+        <fileTransfer host="loadlab.ru" port="21" rootFolder="/zadmin/public_html/host6_loadlab_ru" password="dfcddfcbdfd0dfcfdfdedfcbdfd8dfdf" username="zet">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="ad43a143-383e-40d2-9fa0-b4fd1a7538f9" name="WOw_fact" url="http://host7.loadlab.ru/">
+        <fileTransfer host="host7.loadlab.ru" port="21" rootFolder="/wow_fact" password="dfd8dfcfdfd9dfc9dfdfdfcfdf98df9adf9b" username="webzet">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="a9aacb43-60a8-4d6f-b9c5-d490a0fb3246" name="AMD" url="http://host5.loadlab.ru">
+        <fileTransfer host="host5.loadlab.ru" port="22" rootFolder="/var/zpanel/hostdata/zadmin/public_html/host5_loadlab_ru/amd" accessType="SFTP" password="dfcddfcbdfd0dfcfdfdedfcbdfd8dfdf" username="zet">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="dd8b9a74-da7a-406e-a1d2-3906fa66cf38" name="alfabrick.ru" url="http://alfabrick.ru">
+        <fileTransfer host="alfabrick.ru" port="21" rootFolder="/public_html/toy" username="alfabric">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="a9681036-10e4-474a-80bc-218742b3fd37" name="Bedcleaner" url="http://bedcleaner.ru">
+        <fileTransfer host="bedcleaner.ru" port="21" rootFolder="/bedcleaner.ru/landing" password="dfeddfc2dfc8dfcedfdedfc4df92df9cdf9edf98" username="zet">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="dfabcbb7-18e6-40a0-b924-0851e1419f57" name="Eurowindow" url="http://ftp.eosmoscow.nichost.ru">
+        <fileTransfer host="ftp.eosmoscow.nichost.ru" port="21" rootFolder="/eosmoscow.ru/docs/landing" password="df92dfccdfdbdfcbdfcedfdddfc2dfc9" username="eosmoscow_ftp">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="573917b3-3131-4756-9c0d-d4f6730aa17c" name="SOS" url="http://185.20.82.61">
+        <fileTransfer host="185.20.82.61" port="21" rootFolder="/stroi-sos.ru" password="dfeddfc2dfc8dfcedfdedfc4df92df9cdf9edf98" username="zet">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="a6bdcf17-2747-47d6-be20-37f1d8252a85" name="AMD_DIGITAL" url="http://62.76.178.210">
+        <fileTransfer host="62.76.178.210" port="22" rootFolder="/var/www/html" accessType="SFTP" username="root">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="b07fcaa3-c6ee-4a52-9495-8b6e89f3f0aa" name="yxrobot.ru" url="http://ftp.yxrobot.nichost.ru">
+        <fileTransfer host="ftp.yxrobot.nichost.ru" port="21" rootFolder="/yxrobot.ru/docs" username="yxrobot_loadlab">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="a949319a-0589-48a2-bea6-254ad5a37bfe" name="alfabrick" url="http://alfabrick.ru">
+        <fileTransfer host="alfabrick.ru" port="21" rootFolder="/public_html" username="alfabric">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="d1141442-e2a2-45bf-80a9-9ef181c232f4" name="Profkran" url="http://profkran.ru">
+        <fileTransfer host="profkran.ru" port="22" rootFolder="/var/zpanel/hostdata/zadmin/public_html/prof_loadlab_ru" accessType="SFTP" password="dffcdfcfdfc6dfccdfd8dfc8df9cdf9cdf9c" username="root">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="072924ce-8c4c-4dfc-8f90-1e8411f1349d" name="lg-laundry.ru" url="http://loadlab.ru">
+        <fileTransfer host="loadlab.ru" port="22" rootFolder="/var/zpanel/hostdata/zadmin/public_html/lg_loadlab_ru" accessType="SFTP" password="dfcddfcbdfd0dfcfdfdedfcbdfd8dfdf" username="zet">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="849a5a1c-bbe3-4b83-89a3-35a12c247397" name="edvar" url="http://u167354.ftp.masterhost.ru">
+        <fileTransfer host="u167354.ftp.masterhost.ru" port="21" rootFolder="/www" password="dfc7dfcbdfdedfc5dfc4dfdfdfc6dfdedf9fdfdedfc3" username="u167354_edwar">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="092662fc-26c7-446e-b59f-f63ebbcb7a87" name="amd_new" url="http://host7.loadlab.ru/">
+        <fileTransfer host="host7.loadlab.ru" port="22" rootFolder="/var/zpanel/hostdata/zadmin/public_html/host7_loadlab_ru/amd_new" accessType="SFTP" password="dffcdfcfdfc6dfccdfd8dfc8df9cdf9cdf9c" username="root">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="6cf1f050-15d9-451c-a6aa-567e0999c549" name="crazy" url="http://85.10.207.199">
+        <fileTransfer host="85.10.207.199" port="22" rootFolder="/var/zpanel/hostdata/zadmin/public_html/host7_loadlab_ru/crazy" accessType="SFTP" password="dffcdfcfdfc6dfccdfd8dfc8df9cdf9cdf9c" username="root">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="449d93d7-f220-4a3b-bf8f-aa6eebb40e8d" name="bestclinik" url="http://loadlab.ru">
+        <fileTransfer host="loadlab.ru" port="22" rootFolder="/var/zpanel/hostdata/zadmin/public_html/host7_loadlab_ru/klinik" accessType="SFTP" username="zet">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="0022b7c0-27a1-4232-94a3-fcc0fadc9710" name="Dveri-petli" url="http://85.10.207.199">
+        <fileTransfer host="85.10.207.199" port="22" rootFolder="/var/zpanel/hostdata/zadmin/public_html/host7_loadlab_ru/dveri-petli" accessType="SFTP" password="dfeddfc2dfc8dfcedfdedfc4df9edf9fdf9c" username="root">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="88532826-538f-4724-acc4-32c10907930e" name="Stirka" url="http://stirka.ru">
+        <fileTransfer host="stirka.ru" port="22" rootFolder="/var/www/bitrix" accessType="SFTP" password="dfd0dfc1df84df86dfc1df84dfc1df84dfc6dfdedfdbdf9ddf9ddf9d" username="root">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="365475d8-dbfb-4c20-94ab-995f501bdb1c" name="Solid-stone" url="http://loadlab.ru">
+        <fileTransfer host="loadlab.ru" port="22" rootFolder="/var/zpanel/hostdata/zadmin/public_html/host7_loadlab_ru/stone" accessType="SFTP" password="dfd0dfc1df84df86dfc1df84dfc1df84dfc6dfdedfdbdf9ddf9ddf9d" username="root">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+    <sftpAdvancedGlobalOptions>
+      <SftpAdvancedOptions />
+    </sftpAdvancedGlobalOptions>
+  </component>
+</application>
+

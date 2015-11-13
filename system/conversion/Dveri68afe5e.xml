@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="E:\www\Dveri\.idea\cssxfire.xml" timestamp="1441808619802" />
+    <file path="E:\www\Dveri\.idea\deployment.xml" timestamp="1441812055838" />
+    <file path="E:\www\Dveri\.idea\encodings.xml" timestamp="1441174802000" />
+    <file path="E:\www\Dveri\.idea\inspectionProfiles\Project_Default.xml" timestamp="1441806677029" />
+    <file path="E:\www\Dveri\.idea\inspectionProfiles\profiles_settings.xml" timestamp="1441806677035" />
+    <file path="E:\www\Dveri\.idea\misc.xml" timestamp="1441176978000" />
+    <file path="E:\www\Dveri\.idea\modules.xml" timestamp="1441174802000" />
+    <file path="E:\www\Dveri\.idea\scopes\scope_settings.xml" timestamp="1441174802000" />
+    <file path="E:\www\Dveri\.idea\simple-sassy-starter.iml" timestamp="1441174802000" />
+    <file path="E:\www\Dveri\.idea\template\template_variable_settings.xml" timestamp="1441176978000" />
+    <file path="E:\www\Dveri\.idea\vcs.xml" timestamp="1441174802000" />
+    <file path="E:\www\Dveri\.idea\workspace.xml" timestamp="1441965013114" />
+  </project-files>
+</conversion>
+

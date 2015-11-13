@@ -1,0 +1,51 @@
+com.intellij
+Assets Compressor
+BashSupport
+CMD Support
+ColorIde
+ColorTree
+Compare Directories
+EclipseCodeFormatter
+FrameSwitcher
+codeReview4idea
+mobi.hsz.idea.gitignore
+IdeaServerPlugin
+Key promoter
+LESS CSS Compiler
+Native Neighbourhood
+Realigner
+Referencer
+Shifter
+SmarterEditor
+String Manipulation
+SvgViewer 2
+org.intellij.tasks.navigation
+XmlSearchAndReplace2
+com.andrewbrookins.wrap_to_column
+CSS-X-Fire
+com.jasonnz.bootstrap
+com.jeremyworboys.incDecValue
+com.intellij.plugins.html.instantEditing
+com.jetbrains.plugins.jade
+com.github.woru.options-completion-phpstorm-plugin
+com.jetbrains.php.framework
+net.king2500.plugins.PhpAdvancedAutoComplete
+com.karateca.jstoolbox
+com.kstenschke.copypastestack
+com.snip2code.intellij.plugin
+com.solveforall.clients.IdeaPlugin
+com.strintec.intellij.webmaster
+com.wakatime.intellij.plugin
+com.webfont.ideaplugin
+de.netnexus.camelcaseplugin
+eSnippet Pro plugin
+net.kodare.lineops
+net.leppik.intellij.plugin.justifier
+net.vektah.codeglance
+nl.jworks.intellij.bootstrap3
+org.asciidoctor.intellij.asciidoc
+org.jetbrains.idea.project.template.variables
+JSTestDriver Plugin
+org.root.GoogleIt
+org.wavescale.sourcesync
+socrates.tabshifter

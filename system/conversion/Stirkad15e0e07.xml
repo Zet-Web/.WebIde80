@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\Zet\Google Диск\Work\Stirka\.idea\Stirka.iml" timestamp="1435923841000" />
+    <file path="C:\Users\Zet\Google Диск\Work\Stirka\.idea\codeStyleSettings.xml" timestamp="1435912145000" />
+    <file path="C:\Users\Zet\Google Диск\Work\Stirka\.idea\codeStyleSettings[Конфликт].xml" timestamp="1435871389777" />
+    <file path="C:\Users\Zet\Google Диск\Work\Stirka\.idea\cssxfire.xml" timestamp="1436617961697" />
+    <file path="C:\Users\Zet\Google Диск\Work\Stirka\.idea\dictionaries\Zet.xml" timestamp="1435865891408" />
+    <file path="C:\Users\Zet\Google Диск\Work\Stirka\.idea\encodings.xml" timestamp="1435862962090" />
+    <file path="C:\Users\Zet\Google Диск\Work\Stirka\.idea\jsLibraryMappings.xml" timestamp="1435921426000" />
+    <file path="C:\Users\Zet\Google Диск\Work\Stirka\.idea\misc.xml" timestamp="1436617961703" />
+    <file path="C:\Users\Zet\Google Диск\Work\Stirka\.idea\misc[Конфликт].xml" timestamp="1435903871250" />
+    <file path="C:\Users\Zet\Google Диск\Work\Stirka\.idea\modules.xml" timestamp="1435862962042" />
+    <file path="C:\Users\Zet\Google Диск\Work\Stirka\.idea\scopes\scope_settings.xml" timestamp="1435862962072" />
+    <file path="C:\Users\Zet\Google Диск\Work\Stirka\.idea\template\template_variable_settings.xml" timestamp="1435903871242" />
+    <file path="C:\Users\Zet\Google Диск\Work\Stirka\.idea\vagrant.xml" timestamp="1435865891374" />
+    <file path="C:\Users\Zet\Google Диск\Work\Stirka\.idea\vcs.xml" timestamp="1435862962053" />
+    <file path="C:\Users\Zet\Google Диск\Work\Stirka\.idea\watcherTasks.xml" timestamp="1435927804000" />
+    <file path="C:\Users\Zet\Google Диск\Work\Stirka\.idea\workspace (1).xml" timestamp="1436261535000" />
+    <file path="C:\Users\Zet\Google Диск\Work\Stirka\.idea\workspace.xml" timestamp="1436617961691" />
+    <file path="C:\Users\Zet\Google Диск\Work\Stirka\.idea\workspace[Конфликт 1].xml" timestamp="1435940072000" />
+    <file path="C:\Users\Zet\Google Диск\Work\Stirka\.idea\workspace[Конфликт].xml" timestamp="1435911882073" />
+  </project-files>
+</conversion>
+

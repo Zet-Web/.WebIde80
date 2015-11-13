@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="D:\Dropbox\Work Projects\Msonic\Site\.idea\Msonic-site.iml" timestamp="1436708985000" />
+    <file path="D:\Dropbox\Work Projects\Msonic\Site\.idea\codeStyleSettings.xml" timestamp="1437432996049" />
+    <file path="D:\Dropbox\Work Projects\Msonic\Site\.idea\cssxfire.xml" timestamp="1437519550886" />
+    <file path="D:\Dropbox\Work Projects\Msonic\Site\.idea\dictionaries\Zet.xml" timestamp="1436620333130" />
+    <file path="D:\Dropbox\Work Projects\Msonic\Site\.idea\encodings.xml" timestamp="1437506401092" />
+    <file path="D:\Dropbox\Work Projects\Msonic\Site\.idea\inspectionProfiles\Project_Default.xml" timestamp="1436705662434" />
+    <file path="D:\Dropbox\Work Projects\Msonic\Site\.idea\inspectionProfiles\profiles_settings.xml" timestamp="1436703838298" />
+    <file path="D:\Dropbox\Work Projects\Msonic\Site\.idea\laravel-plugin.xml" timestamp="1437202506689" />
+    <file path="D:\Dropbox\Work Projects\Msonic\Site\.idea\misc.xml" timestamp="1437610438135" />
+    <file path="D:\Dropbox\Work Projects\Msonic\Site\.idea\modules.xml" timestamp="1437130050000" />
+    <file path="D:\Dropbox\Work Projects\Msonic\Site\.idea\php.xml" timestamp="1437274951691" />
+    <file path="D:\Dropbox\Work Projects\Msonic\Site\.idea\scopes\scope_settings.xml" timestamp="1436705662418" />
+    <file path="D:\Dropbox\Work Projects\Msonic\Site\.idea\template\template_variable_settings.xml" timestamp="1436705662396" />
+    <file path="D:\Dropbox\Work Projects\Msonic\Site\.idea\vcs.xml" timestamp="1436705662401" />
+    <file path="D:\Dropbox\Work Projects\Msonic\Site\.idea\watcherTasks.xml" timestamp="1436712007655" />
+    <file path="D:\Dropbox\Work Projects\Msonic\Site\.idea\workspace.xml" timestamp="1437615089412" />
+  </project-files>
+</conversion>
+

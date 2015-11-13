@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="Z:\Dropbox\Count_system\Site\.idea\Site.iml" timestamp="1430242568615" />
+    <file path="Z:\Dropbox\Count_system\Site\.idea\cssxfire.xml" timestamp="1430242568689" />
+    <file path="Z:\Dropbox\Count_system\Site\.idea\encodings.xml" timestamp="1430242568658" />
+    <file path="Z:\Dropbox\Count_system\Site\.idea\misc.xml" timestamp="1430242568697" />
+    <file path="Z:\Dropbox\Count_system\Site\.idea\modules.xml" timestamp="1430242568666" />
+    <file path="Z:\Dropbox\Count_system\Site\.idea\scopes\scope_settings.xml" timestamp="1430242568713" />
+    <file path="Z:\Dropbox\Count_system\Site\.idea\vcs.xml" timestamp="1430242568682" />
+    <file path="Z:\Dropbox\Count_system\Site\.idea\watcherTasks.xml" timestamp="1430242568637" />
+    <file path="Z:\Dropbox\Count_system\Site\.idea\workspace (Конфликтующая копия с компьютера Zet-PC 2015-05-01).xml" timestamp="1430345512937" />
+    <file path="Z:\Dropbox\Count_system\Site\.idea\workspace.xml" timestamp="1430413652000" />
+  </project-files>
+</conversion>
+

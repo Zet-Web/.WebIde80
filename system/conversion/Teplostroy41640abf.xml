@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="Z:\Development\PhpstormProjects\teplostroy\site\Teplostroy\.idea\Teplostroy.iml" timestamp="1416578943045" />
+    <file path="Z:\Development\PhpstormProjects\teplostroy\site\Teplostroy\.idea\cssxfire.xml" timestamp="1416578943053" />
+    <file path="Z:\Development\PhpstormProjects\teplostroy\site\Teplostroy\.idea\encodings.xml" timestamp="1416578943101" />
+    <file path="Z:\Development\PhpstormProjects\teplostroy\site\Teplostroy\.idea\misc.xml" timestamp="1416578943059" />
+    <file path="Z:\Development\PhpstormProjects\teplostroy\site\Teplostroy\.idea\modules.xml" timestamp="1416578943094" />
+    <file path="Z:\Development\PhpstormProjects\teplostroy\site\Teplostroy\.idea\scopes\scope_settings.xml" timestamp="1416578943080" />
+    <file path="Z:\Development\PhpstormProjects\teplostroy\site\Teplostroy\.idea\vcs.xml" timestamp="1416578943087" />
+    <file path="Z:\Development\PhpstormProjects\teplostroy\site\Teplostroy\.idea\workspace.xml" timestamp="1416608282699" />
+  </project-files>
+</conversion>
+

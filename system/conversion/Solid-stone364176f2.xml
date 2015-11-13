@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="Z:\Dropbox\loadlab\Solid-stone\.idea\Teplostroy.iml" timestamp="1416578943000" />
+    <file path="Z:\Dropbox\loadlab\Solid-stone\.idea\cssxfire.xml" timestamp="1416578943000" />
+    <file path="Z:\Dropbox\loadlab\Solid-stone\.idea\encodings.xml" timestamp="1416578943000" />
+    <file path="Z:\Dropbox\loadlab\Solid-stone\.idea\misc.xml" timestamp="1416578943000" />
+    <file path="Z:\Dropbox\loadlab\Solid-stone\.idea\modules.xml" timestamp="1416578943000" />
+    <file path="Z:\Dropbox\loadlab\Solid-stone\.idea\scopes\scope_settings.xml" timestamp="1416578943000" />
+    <file path="Z:\Dropbox\loadlab\Solid-stone\.idea\vcs.xml" timestamp="1416578943000" />
+    <file path="Z:\Dropbox\loadlab\Solid-stone\.idea\workspace.xml" timestamp="1429179274000" />
+  </project-files>
+</conversion>
+

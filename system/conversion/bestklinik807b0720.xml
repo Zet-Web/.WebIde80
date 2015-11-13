@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="Z:\Development\PhpstormProjects\bestklinik\.idea\bestklinik.iml" timestamp="1416392237616" />
+    <file path="Z:\Development\PhpstormProjects\bestklinik\.idea\cssxfire.xml" timestamp="1416392237675" />
+    <file path="Z:\Development\PhpstormProjects\bestklinik\.idea\deployment.xml" timestamp="1416687720562" />
+    <file path="Z:\Development\PhpstormProjects\bestklinik\.idea\encodings.xml" timestamp="1416392237699" />
+    <file path="Z:\Development\PhpstormProjects\bestklinik\.idea\misc.xml" timestamp="1416392237639" />
+    <file path="Z:\Development\PhpstormProjects\bestklinik\.idea\modules.xml" timestamp="1416392237649" />
+    <file path="Z:\Development\PhpstormProjects\bestklinik\.idea\scopes\scope_settings.xml" timestamp="1416392237689" />
+    <file path="Z:\Development\PhpstormProjects\bestklinik\.idea\vcs.xml" timestamp="1416392237627" />
+    <file path="Z:\Development\PhpstormProjects\bestklinik\.idea\workspace.xml" timestamp="1419522257684" />
+  </project-files>
+</conversion>
+

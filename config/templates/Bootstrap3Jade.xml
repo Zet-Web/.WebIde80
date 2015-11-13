@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<templateSet group="Bootstrap3Jade">
+  <template name="bs3-alert-link" value=".alert.alert-warning(role='alert')&#10;  strong Warning!&#10;  |  Better check yourself, you&amp;apos;re &#10;  a.alert-link(href='#') not looking too good&#10;  | .&#10;$END$" description="Alert with alert link (warning)" toReformat="true" toShortenFQNames="false">
+    <context />
+  </template>
+  <template name="bs3-template:html5" value="doctype html&#10;head&#10;  title $var2$&#10;  meta(charset='UTF-8')&#10;  meta(name='description', content='')&#10;  meta(name='viewport', content='width=device-width,initial-scale=1')&#10;  // Bootstrap CSS&#10;  link(href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css', rel='stylesheet', media='screen')&#10;h1.text-center $var3$&#10;// jQuery&#10;script(src='https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js')&#10;// Bootstrap JavaScript&#10;script(src='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js')&#10;$END$" description="Bootstrap 3 HTML5 Template" toReformat="false" toShortenFQNames="false">
+    <variable name="var2" expression="&quot;Title&quot;" defaultValue="" alwaysStopAt="true" />
+    <variable name="var3" expression="&quot;Body&quot;" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="bs3-form:label" value="label(for='$var1$', var2='') $var3$&#10;$END$" description="Form (Label)" toReformat="false" toShortenFQNames="false">
+    <variable name="var1" expression="inputID" defaultValue="" alwaysStopAt="true" />
+    <variable name="var3" expression="&quot;&quot;" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="bs3-input" value="input.form-control(type='$var1$', name='$var2$', id='$var3$', var4='', var5='', var6='')&#10;$END$" description="Input (Form Input)" toReformat="false" toShortenFQNames="false">
+    <variable name="var1" expression="&quot;text&quot;" defaultValue="" alwaysStopAt="true" />
+    <variable name="var2" expression="&quot;name&quot;" defaultValue="" alwaysStopAt="true" />
+    <variable name="var3" expression="&quot;inputID&quot;" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="bs3-well:small" value=".well.well-sm $var1$&#10;$END$" description="Well (small)" toReformat="true" toShortenFQNames="false">
+    <variable name="var1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+</templateSet>
+

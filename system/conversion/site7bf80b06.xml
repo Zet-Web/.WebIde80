@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="Z:\Development\PhpstormProjects\ABC_Vitamine\abc_vitamin\site\.idea\codeStyleSettings.xml" timestamp="1423084038170" />
+    <file path="Z:\Development\PhpstormProjects\ABC_Vitamine\abc_vitamin\site\.idea\cssxfire.xml" timestamp="1424546487805" />
+    <file path="Z:\Development\PhpstormProjects\ABC_Vitamine\abc_vitamin\site\.idea\deployment.xml" timestamp="1423399238792" />
+    <file path="Z:\Development\PhpstormProjects\ABC_Vitamine\abc_vitamin\site\.idea\encodings.xml" timestamp="1421068970782" />
+    <file path="Z:\Development\PhpstormProjects\ABC_Vitamine\abc_vitamin\site\.idea\misc.xml" timestamp="1421068970772" />
+    <file path="Z:\Development\PhpstormProjects\ABC_Vitamine\abc_vitamin\site\.idea\modules.xml" timestamp="1421068970757" />
+    <file path="Z:\Development\PhpstormProjects\ABC_Vitamine\abc_vitamin\site\.idea\scopes\Unnamed.xml" timestamp="1424730391542" />
+    <file path="Z:\Development\PhpstormProjects\ABC_Vitamine\abc_vitamin\site\.idea\scopes\scope_settings.xml" timestamp="1421068970752" />
+    <file path="Z:\Development\PhpstormProjects\ABC_Vitamine\abc_vitamin\site\.idea\site.iml" timestamp="1424728740740" />
+    <file path="Z:\Development\PhpstormProjects\ABC_Vitamine\abc_vitamin\site\.idea\vcs.xml" timestamp="1421068970762" />
+    <file path="Z:\Development\PhpstormProjects\ABC_Vitamine\abc_vitamin\site\.idea\watcherTasks.xml" timestamp="1424808922391" />
+    <file path="Z:\Development\PhpstormProjects\ABC_Vitamine\abc_vitamin\site\.idea\workspace.xml" timestamp="1425219294200" />
+  </project-files>
+</conversion>
+

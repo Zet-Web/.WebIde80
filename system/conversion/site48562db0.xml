@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="Z:\Dropbox\loadlab\Kosmetolog\site\.idea\Kosmetolog.iml" timestamp="1428002949000" />
+    <file path="Z:\Dropbox\loadlab\Kosmetolog\site\.idea\cssxfire.xml" timestamp="1427399671034" />
+    <file path="Z:\Dropbox\loadlab\Kosmetolog\site\.idea\deployment.xml" timestamp="1430672884228" />
+    <file path="Z:\Dropbox\loadlab\Kosmetolog\site\.idea\encodings.xml" timestamp="1426669542000" />
+    <file path="Z:\Dropbox\loadlab\Kosmetolog\site\.idea\misc.xml" timestamp="1426669542000" />
+    <file path="Z:\Dropbox\loadlab\Kosmetolog\site\.idea\modules.xml" timestamp="1426669542000" />
+    <file path="Z:\Dropbox\loadlab\Kosmetolog\site\.idea\scopes\scope_settings.xml" timestamp="1426669542000" />
+    <file path="Z:\Dropbox\loadlab\Kosmetolog\site\.idea\vcs.xml" timestamp="1426669542000" />
+    <file path="Z:\Dropbox\loadlab\Kosmetolog\site\.idea\watcherTasks.xml" timestamp="1426670385000" />
+    <file path="Z:\Dropbox\loadlab\Kosmetolog\site\.idea\workspace (Конфликтующая копия с компьютера Zet-PC 2015-03-26 (1)).xml" timestamp="1427394801777" />
+    <file path="Z:\Dropbox\loadlab\Kosmetolog\site\.idea\workspace (Конфликтующая копия с компьютера Zet-PC 2015-03-26).xml" timestamp="1427317354188" />
+    <file path="Z:\Dropbox\loadlab\Kosmetolog\site\.idea\workspace.xml" timestamp="1431445502000" />
+  </project-files>
+</conversion>
+

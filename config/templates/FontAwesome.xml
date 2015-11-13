@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<templateSet group="FontAwesome">
+  <template name="fa-gift" value="&lt;i class=&quot;fa fa-gift&quot;&gt;&lt;/i&gt;$END$" description="fa-gift icon" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name="fa-gittip (alias)" value="&lt;i class=&quot;fa fa-gratipay&quot;&gt;&lt;/i&gt;$END$" description="fa-gittip (alias) icon" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+</templateSet>
+

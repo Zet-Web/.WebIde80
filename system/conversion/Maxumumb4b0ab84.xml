@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\WebServers\home\localhost\www\Maxumum\.idea\Maximum.iml" timestamp="1445002553699" />
+    <file path="C:\WebServers\home\localhost\www\Maxumum\.idea\codeStyleSettings.xml" timestamp="1439296360000" />
+    <file path="C:\WebServers\home\localhost\www\Maxumum\.idea\cssxfire.xml" timestamp="1444284474648" />
+    <file path="C:\WebServers\home\localhost\www\Maxumum\.idea\encodings.xml" timestamp="1437702420000" />
+    <file path="C:\WebServers\home\localhost\www\Maxumum\.idea\jsLinters\jshint.xml" timestamp="1442228851000" />
+    <file path="C:\WebServers\home\localhost\www\Maxumum\.idea\libraries\compass_library.xml" timestamp="1445002553720" />
+    <file path="C:\WebServers\home\localhost\www\Maxumum\.idea\misc.xml" timestamp="1437702420000" />
+    <file path="C:\WebServers\home\localhost\www\Maxumum\.idea\modules.xml" timestamp="1437702420000" />
+    <file path="C:\WebServers\home\localhost\www\Maxumum\.idea\scopes\scope_settings.xml" timestamp="1437702420000" />
+    <file path="C:\WebServers\home\localhost\www\Maxumum\.idea\template\template_variable_settings.xml" timestamp="1437702420000" />
+    <file path="C:\WebServers\home\localhost\www\Maxumum\.idea\vcs.xml" timestamp="1437702420000" />
+    <file path="C:\WebServers\home\localhost\www\Maxumum\.idea\watcherTasks.xml" timestamp="1442237121000" />
+    <file path="C:\WebServers\home\localhost\www\Maxumum\.idea\workspace.xml" timestamp="1445017210043" />
+  </project-files>
+</conversion>
+

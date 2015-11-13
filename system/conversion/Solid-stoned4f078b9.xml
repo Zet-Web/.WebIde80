@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="Z:\Dropbox\loadlab\Solid-stone\Solid-stone\.idea\codeStyleSettings.xml" timestamp="1426574506000" />
+    <file path="Z:\Dropbox\loadlab\Solid-stone\Solid-stone\.idea\cssxfire.xml" timestamp="1426493597000" />
+    <file path="Z:\Dropbox\loadlab\Solid-stone\Solid-stone\.idea\deployment.xml" timestamp="1427024167000" />
+    <file path="Z:\Dropbox\loadlab\Solid-stone\Solid-stone\.idea\encodings.xml" timestamp="1425547333000" />
+    <file path="Z:\Dropbox\loadlab\Solid-stone\Solid-stone\.idea\misc.xml" timestamp="1436705825403" />
+    <file path="Z:\Dropbox\loadlab\Solid-stone\Solid-stone\.idea\modules.xml" timestamp="1425547333000" />
+    <file path="Z:\Dropbox\loadlab\Solid-stone\Solid-stone\.idea\scopes\scope_settings.xml" timestamp="1425547333000" />
+    <file path="Z:\Dropbox\loadlab\Solid-stone\Solid-stone\.idea\solid-stone.ru.iml" timestamp="1425650241000" />
+    <file path="Z:\Dropbox\loadlab\Solid-stone\Solid-stone\.idea\template\template_variable_settings.xml" timestamp="1436705825398" />
+    <file path="Z:\Dropbox\loadlab\Solid-stone\Solid-stone\.idea\vcs.xml" timestamp="1425560462000" />
+    <file path="Z:\Dropbox\loadlab\Solid-stone\Solid-stone\.idea\watcherTasks.xml" timestamp="1426615003000" />
+    <file path="Z:\Dropbox\loadlab\Solid-stone\Solid-stone\.idea\workspace.xml" timestamp="1436705825472" />
+  </project-files>
+</conversion>
+

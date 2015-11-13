@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="Z:\Development\PhpstormProjects\CrazyBeach\site\.idea\cssxfire.xml" timestamp="1419522381651" />
+    <file path="Z:\Development\PhpstormProjects\CrazyBeach\site\.idea\deployment.xml" timestamp="1419520842936" />
+    <file path="Z:\Development\PhpstormProjects\CrazyBeach\site\.idea\encodings.xml" timestamp="1411385209120" />
+    <file path="Z:\Development\PhpstormProjects\CrazyBeach\site\.idea\misc.xml" timestamp="1411385209175" />
+    <file path="Z:\Development\PhpstormProjects\CrazyBeach\site\.idea\modules.xml" timestamp="1411385209129" />
+    <file path="Z:\Development\PhpstormProjects\CrazyBeach\site\.idea\scopes\scope_settings.xml" timestamp="1411385209167" />
+    <file path="Z:\Development\PhpstormProjects\CrazyBeach\site\.idea\site.iml" timestamp="1411385209111" />
+    <file path="Z:\Development\PhpstormProjects\CrazyBeach\site\.idea\vcs.xml" timestamp="1411385209145" />
+    <file path="Z:\Development\PhpstormProjects\CrazyBeach\site\.idea\workspace.xml" timestamp="1419873317093" />
+  </project-files>
+</conversion>
+

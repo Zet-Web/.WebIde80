@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="Z:\Development\PhpstormProjects\Stirka\.idea\Stirka-new.iml" timestamp="1424991088283" />
+    <file path="Z:\Development\PhpstormProjects\Stirka\.idea\codeStyleSettings.xml" timestamp="1425722894843" />
+    <file path="Z:\Development\PhpstormProjects\Stirka\.idea\cssxfire.xml" timestamp="1424983621920" />
+    <file path="Z:\Development\PhpstormProjects\Stirka\.idea\deployment.xml" timestamp="1424994342385" />
+    <file path="Z:\Development\PhpstormProjects\Stirka\.idea\encodings.xml" timestamp="1424983621681" />
+    <file path="Z:\Development\PhpstormProjects\Stirka\.idea\misc.xml" timestamp="1424983621448" />
+    <file path="Z:\Development\PhpstormProjects\Stirka\.idea\modules.xml" timestamp="1424983622294" />
+    <file path="Z:\Development\PhpstormProjects\Stirka\.idea\scopes\scope_settings.xml" timestamp="1424983622544" />
+    <file path="Z:\Development\PhpstormProjects\Stirka\.idea\vcs.xml" timestamp="1424983621441" />
+    <file path="Z:\Development\PhpstormProjects\Stirka\.idea\watcherTasks.xml" timestamp="1425219063325" />
+    <file path="Z:\Development\PhpstormProjects\Stirka\.idea\workspace.xml" timestamp="1425736096083" />
+  </project-files>
+</conversion>
+

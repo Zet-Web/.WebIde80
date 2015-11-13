@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="Z:\Development\PhpstormProjects\Cleanpult\Cleanpult\.idea\CleanPult.iml" timestamp="1420291148384" />
+    <file path="Z:\Development\PhpstormProjects\Cleanpult\Cleanpult\.idea\cssxfire.xml" timestamp="1420291148413" />
+    <file path="Z:\Development\PhpstormProjects\Cleanpult\Cleanpult\.idea\encodings.xml" timestamp="1420291148450" />
+    <file path="Z:\Development\PhpstormProjects\Cleanpult\Cleanpult\.idea\misc.xml" timestamp="1420291148443" />
+    <file path="Z:\Development\PhpstormProjects\Cleanpult\Cleanpult\.idea\modules.xml" timestamp="1420291148421" />
+    <file path="Z:\Development\PhpstormProjects\Cleanpult\Cleanpult\.idea\scopes\scope_settings.xml" timestamp="1420291148404" />
+    <file path="Z:\Development\PhpstormProjects\Cleanpult\Cleanpult\.idea\vcs.xml" timestamp="1420291148436" />
+    <file path="Z:\Development\PhpstormProjects\Cleanpult\Cleanpult\.idea\workspace.xml" timestamp="1421354099263" />
+  </project-files>
+</conversion>
+

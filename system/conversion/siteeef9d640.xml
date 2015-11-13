@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="Z:\Dropbox\loadlab\CrazyBeach\site\.idea\cssxfire.xml" timestamp="1428005119453" />
+    <file path="Z:\Dropbox\loadlab\CrazyBeach\site\.idea\deployment.xml" timestamp="1428001168724" />
+    <file path="Z:\Dropbox\loadlab\CrazyBeach\site\.idea\encodings.xml" timestamp="1411388809000" />
+    <file path="Z:\Dropbox\loadlab\CrazyBeach\site\.idea\misc.xml" timestamp="1411388809000" />
+    <file path="Z:\Dropbox\loadlab\CrazyBeach\site\.idea\modules.xml" timestamp="1411388809000" />
+    <file path="Z:\Dropbox\loadlab\CrazyBeach\site\.idea\scopes\scope_settings.xml" timestamp="1411388809000" />
+    <file path="Z:\Dropbox\loadlab\CrazyBeach\site\.idea\site.iml" timestamp="1428002949935" />
+    <file path="Z:\Dropbox\loadlab\CrazyBeach\site\.idea\vcs.xml" timestamp="1411388809000" />
+    <file path="Z:\Dropbox\loadlab\CrazyBeach\site\.idea\watcherTasks.xml" timestamp="1428002171052" />
+    <file path="Z:\Dropbox\loadlab\CrazyBeach\site\.idea\workspace.xml" timestamp="1429555028715" />
+  </project-files>
+</conversion>
+

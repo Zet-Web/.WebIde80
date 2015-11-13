@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="Console.TableResult.EditValue">
+    <keyboard-shortcut first-keystroke="alt ENTER" />
+  </action>
+  <action id="EditorAddOrRemoveCaret">
+    <mouse-shortcut keystroke="control button1" />
+  </action>
+  <action id="EditorCloneCaretAbove">
+    <keyboard-shortcut first-keystroke="shift control O" />
+  </action>
+  <action id="EditorNextWordInDifferentHumpsModeWithSelection">
+    <keyboard-shortcut first-keystroke="shift alt O" />
+  </action>
+  <action id="EditorSelectLine">
+    <mouse-shortcut keystroke="shift button1" />
+  </action>
+  <action id="EmmetPreview">
+    <keyboard-shortcut first-keystroke="shift E" />
+  </action>
+  <action id="FileChooser.TogglePathShowing" />
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="control B" />
+    <mouse-shortcut keystroke="button2" />
+  </action>
+  <action id="GotoNextBookmark">
+    <keyboard-shortcut first-keystroke="alt PERIOD" />
+  </action>
+  <action id="GotoNextError" />
+  <action id="GotoPreviousBookmark">
+    <keyboard-shortcut first-keystroke="alt COMMA" />
+  </action>
+  <action id="GotoSuperMethod">
+    <mouse-shortcut keystroke="alt button1" />
+  </action>
+  <action id="IncomingChanges.DeclarationNodePopup.ApplySingle">
+    <keyboard-shortcut first-keystroke="INSERT" />
+    <keyboard-shortcut first-keystroke="shift A" />
+  </action>
+  <action id="IncomingChanges.ToolBar.Down">
+    <keyboard-shortcut first-keystroke="shift Q" />
+  </action>
+  <action id="IncomingChanges.ToolBar.ExpandAll">
+    <keyboard-shortcut first-keystroke="shift S" />
+  </action>
+  <action id="IncomingChanges.ToolBar.Up">
+    <keyboard-shortcut first-keystroke="shift W" />
+  </action>
+  <action id="InvalidateCaches">
+    <keyboard-shortcut first-keystroke="shift control F5" />
+  </action>
+  <action id="LocalHistory.ShowHistory">
+    <keyboard-shortcut first-keystroke="control H" />
+  </action>
+  <action id="OpenFile">
+    <keyboard-shortcut first-keystroke="control O" />
+  </action>
+  <action id="OverrideMethods" />
+  <action id="ParameterInfo" />
+  <action id="PublishGroup.Upload">
+    <keyboard-shortcut first-keystroke="control U" />
+    <keyboard-shortcut first-keystroke="alt S" />
+    <keyboard-shortcut first-keystroke="control E" />
+  </action>
+  <action id="RecentFiles" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="F2" />
+  </action>
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="control P" />
+  </action>
+  <action id="ShowSettings">
+    <keyboard-shortcut first-keystroke="control alt S" />
+    <keyboard-shortcut first-keystroke="shift control P" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="shift alt ENTER" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="shift alt DOWN" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="shift alt LEFT" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="shift alt RIGHT" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="shift alt UP" />
+  </action>
+  <action id="TypeHierarchy" />
+  <action id="UsageView.ShowRecentFindUsages" />
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="control M" />
+  </action>
+</keymap>
+

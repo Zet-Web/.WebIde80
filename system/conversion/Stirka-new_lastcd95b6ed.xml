@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\Zet\Google Диск\Work\Stirka\Stirka-new_last\.idea\Stirka-new_last.iml" timestamp="1436775469000" />
+    <file path="C:\Users\Zet\Google Диск\Work\Stirka\Stirka-new_last\.idea\cssxfire.xml" timestamp="1437478869000" />
+    <file path="C:\Users\Zet\Google Диск\Work\Stirka\Stirka-new_last\.idea\encodings.xml" timestamp="1436775469000" />
+    <file path="C:\Users\Zet\Google Диск\Work\Stirka\Stirka-new_last\.idea\misc.xml" timestamp="1437548566046" />
+    <file path="C:\Users\Zet\Google Диск\Work\Stirka\Stirka-new_last\.idea\modules.xml" timestamp="1436775469000" />
+    <file path="C:\Users\Zet\Google Диск\Work\Stirka\Stirka-new_last\.idea\scopes\scope_settings.xml" timestamp="1436775469000" />
+    <file path="C:\Users\Zet\Google Диск\Work\Stirka\Stirka-new_last\.idea\template\template_variable_settings.xml" timestamp="1437548566086" />
+    <file path="C:\Users\Zet\Google Диск\Work\Stirka\Stirka-new_last\.idea\vcs.xml" timestamp="1436775469000" />
+    <file path="C:\Users\Zet\Google Диск\Work\Stirka\Stirka-new_last\.idea\workspace.xml" timestamp="1437548583723" />
+  </project-files>
+</conversion>
+

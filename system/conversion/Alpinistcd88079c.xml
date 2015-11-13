@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="Z:\Dropbox\Alpinist\.idea\Alpinist.iml" timestamp="1393109654000" />
+    <file path="Z:\Dropbox\Alpinist\.idea\cssxfire.xml" timestamp="1416516570180" />
+    <file path="Z:\Dropbox\Alpinist\.idea\encodings.xml" timestamp="1393109655000" />
+    <file path="Z:\Dropbox\Alpinist\.idea\misc.xml" timestamp="1393109654000" />
+    <file path="Z:\Dropbox\Alpinist\.idea\modules.xml" timestamp="1393109654000" />
+    <file path="Z:\Dropbox\Alpinist\.idea\scopes\scope_settings.xml" timestamp="1393109654000" />
+    <file path="Z:\Dropbox\Alpinist\.idea\vcs.xml" timestamp="1393109654000" />
+    <file path="Z:\Dropbox\Alpinist\.idea\workspace.xml" timestamp="1416517887598" />
+  </project-files>
+</conversion>
+

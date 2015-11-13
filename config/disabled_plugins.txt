@@ -1,0 +1,18 @@
+com.urswolfer.intellij.plugin.gerrit
+LiveTemplatePreview
+net.nicoulaj.idea.markdown
+ua.in.dej.myEmmet
+org.jetbrains.plugins.vagrant
+com.jetbrains.php.blade
+BrowseWordAtCaret
+BackgroundImage
+CodeOutline2
+com.paperetto.dash
+SyncEdit 2
+extended-code-sense
+Scratch
+SmoothScroll
+de.espend.idea.laravel
+com.lexand.enclosing
+CodeLock
+org.jetbrains.plugins.yaml

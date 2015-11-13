@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="Z:\Development\PhpstormProjects\GSM\.idea\GSM.iml" timestamp="1419691162370" />
+    <file path="Z:\Development\PhpstormProjects\GSM\.idea\cssxfire.xml" timestamp="1419894888845" />
+    <file path="Z:\Development\PhpstormProjects\GSM\.idea\encodings.xml" timestamp="1419691162415" />
+    <file path="Z:\Development\PhpstormProjects\GSM\.idea\misc.xml" timestamp="1419691162393" />
+    <file path="Z:\Development\PhpstormProjects\GSM\.idea\modules.xml" timestamp="1419691162387" />
+    <file path="Z:\Development\PhpstormProjects\GSM\.idea\scopes\scope_settings.xml" timestamp="1419691162383" />
+    <file path="Z:\Development\PhpstormProjects\GSM\.idea\vcs.xml" timestamp="1419691162410" />
+    <file path="Z:\Development\PhpstormProjects\GSM\.idea\workspace.xml" timestamp="1422231152504" />
+  </project-files>
+</conversion>
+
